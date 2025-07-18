@@ -62,7 +62,7 @@ npm install -g @google/gemini-cli || { echo "Error: Falló la instalación de Ge
 
 # Solicitar clave API de Gemini
 echo "🔑 Por favor, ingresa tu clave API de Gemini."
-echo "Puedes obtenerla en https://aistudio.google.com/app/apikey o gestionarla en https://console.cloud.google.com/apis/credentials?project=gateway-r9gl0"
+echo "Puedes obtenerla en drive"
 read -p "Ingresa tu GEMINI_API_KEY: " gemini_api_key
 
 # Validar que la clave no esté vacía
